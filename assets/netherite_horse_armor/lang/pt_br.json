@@ -1,0 +1,10 @@
+{
+  "item.netherite_horse_armor.netherite_horse_armor": "Armadura de Netherita para Cavalo",
+
+  "netherite_horse_armor.advancements.obtain.title": "Cavaleiro Negro Lendário",
+  "netherite_horse_armor.advancements.obtain.description": "Obtenha uma Armadura de Netherita para Cavalo",
+
+  "text.autoconfig.netherite_horse_armor.option.title": "Configuração da Armadura de Netherita para Cavalo",
+  "text.autoconfig.netherite_horse_armor.option.weight": "Probabilidade nas Tabelas de Tesouro",
+  "text.autoconfig.netherite_horse_armor.option.protectionValue": "Pontos de Armadura"
+}

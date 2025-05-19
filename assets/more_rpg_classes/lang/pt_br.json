@@ -1,0 +1,42 @@
+{
+  "itemGroup.more_rpg_classes.general": "MRPGClasses",
+
+  "effect.more_rpg_classes.molten_armor": "Armadura Derretida",
+  "effect.more_rpg_classes.molten_armor.description": "Reduz armadura, resistência da armadura e causa dano no alvo se ele estiver usando armadura.",
+  "effect.more_rpg_classes.stun": "Atordoado",
+  "effect.more_rpg_classes.stun.description": "Não pode se mover, atacar ou pular.",
+  "effect.more_rpg_classes.frozen_solid": "Congelado",
+  "effect.more_rpg_classes.frozen_solid.description": "Não pode se mover, atacar ou pular, recebe dano adicional se for atingido durante o efeito ativo.",
+  "effect.more_rpg_classes.fear": "Medo",
+  "effect.more_rpg_classes.fear.description": "Reduz o dano de ataque.",
+  "effect.more_rpg_classes.collected_soul": "Alma Coletada",
+  "effect.more_rpg_classes.collected_soul.description": "Aumenta o poder dos feitiços de alma por acúmulo.",
+  "effect.more_rpg_classes.grievous_wounds": "Feridas Graves",
+  "effect.more_rpg_classes.grievous_wounds.description": "Cura reduzida e aumento do dano recebido.",
+  "effect.more_rpg_classes.frosted": "Congelado (com geada)",
+  "effect.more_rpg_classes.frosted.description": "Velocidade de movimento diminuída.",
+  "effect.more_rpg_classes.bleeding": "Sangrando",
+  "effect.more_rpg_classes.bleeding.description": "Causa dano ao alvo com o tempo.",
+
+  "item.more_rpg_classes.aqua_stone": "Runa de Água",
+  "item.more_rpg_classes.terra_stone": "Runa de Terra",
+  "item.more_rpg_classes.storm_stone": "Runa de Ar",
+  "item.more_rpg_classes.polar_bear_fur": "Pele de Urso",
+  "item.more_rpg_classes.wolf_fur": "Pele de Lobo",
+  "item.more_rpg_classes.hardened_leather": "Couro Endurecido",
+
+  "death.attack.mrpgc.bleeding": "%1$s sangrou até a morte.",
+  "death.attack.mrpgc.molten": "%1$s foi queimado pela sua armadura derretida.",
+
+  "attribute.name.more_rpg_classes.rage_modifier": "Poder da Fúria",
+  "attribute.name.more_rpg_classes.arcane_fuse_modifier": "Fusão Arcana",
+  "attribute.name.more_rpg_classes.lifesteal_modifier": "Roubo de Vida",
+  "attribute.name.more_rpg_classes.damage_reflect_modifier": "Reflexo de Dano",
+  "attribute.name.more_rpg_classes.spell_vampire": "Vampiro de Feitiço",
+
+  "advancements.more_rpg_content.root.title": "Mais Conteúdo RPG!",
+  "advancements.more_rpg_content.root.description": "Explore os diferentes caminhos que você pode escolher!",
+
+  "enchantment.more_rpg_classes.elemental": "Mestria Elemental",
+  "enchantment.more_rpg_classes.elemental.desc": "Aumenta todo o dano de feitiços de ar, terra e água que você causar"
+}

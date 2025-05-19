@@ -1,0 +1,192 @@
+{
+  "itemGroup.wizards.general": "Magos",
+
+  "item.wizards.arcane_spell_book": "Tomo Arcano",
+  "item.wizards.fire_spell_book": "Tomo Fogo",
+  "item.wizards.frost_spell_book": "Tomo Gelo",
+
+  "item.wizards.arcane.spell_scroll": "Pergaminho de Magia Arcana",
+  "item.wizards.fire.spell_scroll": "Pergaminho de Magia de Fogo",
+  "item.wizards.frost.spell_scroll": "Pergaminho de Magia de Gelo",
+
+  "item.wizards.wand_novice": "Varinha de Novato",
+  "item.wizards.wand_arcane": "Varinha Arcana",
+  "item.wizards.wand_fire": "Varinha de Fogo",
+  "item.wizards.wand_frost": "Varinha de Gelo",
+
+  "item.wizards.staff_wizard": "Cajado de Mago",
+  "item.wizards.staff_arcane": "Cajado Arcano",
+  "item.wizards.staff_fire": "Cajado de Fogo",
+  "item.wizards.staff_frost": "Cajado de Gelo",
+
+  "item.wizards.wand_netherite_arcane": "Varinha Arcana de Netherita",
+  "item.wizards.wand_netherite_fire": "Varinha de Fogo de Netherita",
+  "item.wizards.wand_netherite_frost": "Varinha de Gelo de Netherita",
+
+  "item.wizards.staff_netherite_arcane": "Cajado Arcano de Netherita",
+  "item.wizards.staff_netherite_fire": "Cajado de Fogo de Netherita",
+  "item.wizards.staff_netherite_frost": "Cajado de Gelo de Netherita",
+  "item.wizards.staff_crystal_arcane": "Cajado Arcano de Cristal",
+  "item.wizards.staff_ruby_fire": "Cajado de Fogo de Rubi",
+  "item.wizards.staff_smaragdant_frost": "Cajado de Gelo de Esmeraldina",
+  "item.wizards.aether_wizard_staff": "Cajado do Magister Valquírio",
+
+  "item.wizards.wizard_robe_head": "Chapéu de Mago",
+  "item.wizards.wizard_robe_chest": "Calças de Mago",
+  "item.wizards.wizard_robe_legs": "Túnica de Mago",
+  "item.wizards.wizard_robe_feet": "Botas de Mago",
+
+  "item.wizards.arcane_robe_head": "Chapéu Arcano",
+  "item.wizards.arcane_robe_chest": "Túnica Arcana",
+  "item.wizards.arcane_robe_legs": "Calças Arcana",
+  "item.wizards.arcane_robe_feet": "Botas Arcanas",
+
+  "item.wizards.fire_robe_head": "Chapéu de Fogo",
+  "item.wizards.fire_robe_chest": "Túnica de Fogo",
+  "item.wizards.fire_robe_legs": "Calças de Fogo",
+  "item.wizards.fire_robe_feet": "Botas de Fogo",
+
+  "item.wizards.frost_robe_head": "Chapéu de Gelo",
+  "item.wizards.frost_robe_chest": "Túnica de Gelo",
+  "item.wizards.frost_robe_legs": "Calças de Gelo",
+  "item.wizards.frost_robe_feet": "Botas de Gelo",
+
+  "item.wizards.netherite_arcane_robe_head": "Netherite Arcane Hat",
+  "item.wizards.netherite_arcane_robe_chest": "Netherite Arcane Robe Top",
+  "item.wizards.netherite_arcane_robe_legs": "Netherite Arcane Robe Bottom",
+  "item.wizards.netherite_arcane_robe_feet": "Netherite Arcane Boots",
+  "item.wizards.netherite_fire_robe_head": "Netherite Fire Hat",
+  "item.wizards.netherite_fire_robe_chest": "Netherite Fire Robe Top",
+  "item.wizards.netherite_fire_robe_legs": "Netherite Fire Robe Bottom",
+  "item.wizards.netherite_fire_robe_feet": "Netherite Fire Boots",
+  "item.wizards.netherite_frost_robe_head": "Netherite Frost Hat",
+  "item.wizards.netherite_frost_robe_chest": "Netherite Frost Robe Top",
+  "item.wizards.netherite_frost_robe_legs": "Netherite Frost Robe Bottom",
+  "item.wizards.netherite_frost_robe_feet": "Netherite Frost Boots",
+
+  "spell.wizards.arcane_bolt.name": "Raio Arcano",
+  "spell.wizards.arcane_bolt.description": "Dispara um raio de energia, causando {damage} de dano mágico arcano.",
+
+  "spell.wizards.arcane_blast.name": "Explosão Arcana",
+  "spell.wizards.arcane_blast.description": "Explode o alvo, causando {damage} de dano arcano. Concede Carga Arcana, acumulando até {effect_amplifier_cap} vezes.",
+
+  "effect.wizards.arcane_charge": "Carga Arcana",
+  "effect.wizards.arcane_charge.description": "Aumenta o dano de feitiços arcanos causado.",
+
+  "spell.wizards.arcane_missile.name": "Mísseis Arcanos",
+  "spell.wizards.arcane_missile.description": "Dispara continuamente raios de energia que atravessam {pierce} alvos, causando {damage} de dano arcano por segundo.",
+
+  "spell.wizards.arcane_beam.name": "Feixe Arcano",
+  "spell.wizards.arcane_beam.description": "Canaliza um feixe de energia, causando {damage} de dano arcano por segundo. Consome todas as Cargas Arcanas.",
+
+  "spell.wizards.arcane_blink.name": "Piscar",
+  "spell.wizards.arcane_blink.description": "Teleporta você para frente por {teleport_distance} blocos.",
+
+  "spell.wizards.fire_scorch.name": "Chamuscada",
+  "spell.wizards.fire_scorch.description": "Queima o alvo, causando {damage} de dano mágico de fogo e incendiando-o.",
+
+  "spell.wizards.fireball.name": "Bola de Fogo",
+  "spell.wizards.fireball.description": "Lança uma bola de fogo, causando até {damage} de dano mágico de fogo e incendiando o alvo.",
+
+  "spell.wizards.fire_blast.name": "Explosão Ígnea",
+  "spell.wizards.fire_blast.description": "Lança uma bola explosiva de fogo, causando até {damage} de dano mágico de fogo em um raio de {impact_range} blocos.",
+
+  "spell.wizards.fire_breath.name": "Sopro de Fogo",
+  "spell.wizards.fire_breath.description": "Incinera os alvos à frente, causando até {damage} de dano mágico de fogo por segundo.",
+
+  "spell.wizards.fire_meteor.name": "Meteoro",
+  "spell.wizards.fire_meteor.description": "Lança meteoros sobre o alvo, cada um causando até {damage} de dano mágico de fogo dentro de um raio de {impact_range} blocos.",
+
+  "spell.wizards.fire_wall.name": "Muralha de Chamas",
+  "spell.wizards.fire_wall.description": "Cria uma parede de fogo, durando {cloud_duration} segundos, causando até {damage} de dano mágico de fogo continuamente aos inimigos que a atravessarem.",
+
+  "spell.wizards.frost_shard.name": "Fragmento de Gelo",
+  "spell.wizards.frost_shard.description": "Lança um fragmento de gelo que pode ricochetear nas paredes, causando {damage} de dano mágico de gelo ao atingir.",
+
+  "spell.wizards.frostbolt.name": "Raio de Gelo",
+  "spell.wizards.frostbolt.description": "Lança uma bola de gelo que ricocheteia em até {ricochet} alvos próximos adicionais, causando {damage} de dano mágico de gelo e desacelerando o alvo ao atingir.",
+
+  "effect.wizards.frost_slowness": "Lentidão",
+  "effect.wizards.frost_slowness.description": "Reduz a velocidade de movimento",
+
+  "spell.wizards.frost_nova.name": "Nova Gélida",
+  "spell.wizards.frost_nova.description": "Congela os alvos ao seu redor por {effect_duration} segundos, causando {damage} de dano mágico de gelo e bloqueando seus movimentos. Alvos congelados são vulneráveis à magia de gelo.",
+
+  "effect.wizards.frozen": "Congelado",
+  "effect.wizards.frozen.description": "Impede o movimento, é removido ao sofrer dano, vulnerável à magia de gelo",
+
+  "spell.wizards.frost_shield.name": "Escudo de Gelo",
+  "spell.wizards.frost_shield.description": "Protege você de ataques, projéteis e fogo por {effect_duration} segundos, mas também reduz sua velocidade de movimento.",
+
+  "effect.wizards.frost_shield": "Escudo de Gelo",
+  "effect.wizards.frost_shield.description": "Bloqueia ataques recebidos enquanto ativo, mas reduz a velocidade de movimento",
+
+  "spell.wizards.frost_blizzard.name": "Nevasca",
+  "spell.wizards.frost_blizzard.description": "Canaliza uma chuva de fragmentos de gelo sobre o seu alvo e inimigos próximos, causando até {damage} de dano mágico de gelo e desacelerando os alvos em um raio de {impact_range} blocos.",
+
+  "advancements.rpg_series.path_choose_arcane.title": "Caminho do Arcano",
+  "advancements.rpg_series.path_choose_arcane.description": "Crie um Tomo de Arcano",
+
+  "advancements.rpg_series.path_choose_fire.title": "Caminho do Fogo",
+  "advancements.rpg_series.path_choose_fire.description": "Crie um Tomo de Fogo",
+
+  "advancements.rpg_series.path_choose_frost.title": "Caminho da Geada",
+  "advancements.rpg_series.path_choose_frost.description": "Crie um Tomo de Gelo",
+
+  "advancements.rpg_series.spell_novice_arcane.title": "Sintonização Mágica",
+  "advancements.rpg_series.spell_novice_arcane.description": "Obtenha sua primeira Magia Arcana",
+
+  "advancements.rpg_series.spell_novice_fire.title": "Brincando com Fogo",
+  "advancements.rpg_series.spell_novice_fire.description": "Obtenha sua primeira Magia de Fogo",
+
+  "advancements.rpg_series.spell_novice_frost.title": "Cabeça Fria",
+  "advancements.rpg_series.spell_novice_frost.description": "Obtenha sua primeira Magia de Gelo",
+
+  "advancements.rpg_series.spell_master_arcane.title": "Mestre da Mente",
+  "advancements.rpg_series.spell_master_arcane.description": "Obtenha todas as Magias Arcanas",
+
+  "advancements.rpg_series.spell_master_fire.title": "Piromaníaco",
+  "advancements.rpg_series.spell_master_fire.description": "Obtenha todas as Magias de Fogo",
+
+  "advancements.rpg_series.spell_master_frost.title": "Veias Congeladas",
+  "advancements.rpg_series.spell_master_frost.description": "Obtenha todas as Magias de Gelo",
+
+  "advancements.rpg_series.obtain_wizard_robes.title": "Um Mago Nunca se Atrasa",
+  "advancements.rpg_series.obtain_wizard_robes.description": "Adquira um conjunto completo de Vestes de Mago",
+
+  "advancements.rpg_series.obtain_wand.title": "A Varinha Escolhe o Mago",
+  "advancements.rpg_series.obtain_wand.description": "Obtenha uma Varinha",
+
+  "advancements.rpg_series.obtain_arcane_rune.title": "Caminho do Arcano",
+  "advancements.rpg_series.obtain_arcane_rune.description": "Obtenha uma Runa Arcana",
+
+  "advancements.rpg_series.obtain_fire_rune.title": "Caminho do Fogo",
+  "advancements.rpg_series.obtain_fire_rune.description": "Obtenha uma Runa de Fogo",
+
+  "advancements.rpg_series.obtain_frost_rune.title": "Caminho do Gelo",
+  "advancements.rpg_series.obtain_frost_rune.description": "Obtenha uma Runa de Gelo",
+
+  "advancements.rpg_series.spell_cast_arcane_wand.title": "Prática Arcana",
+  "advancements.rpg_series.spell_cast_arcane_wand.description": "Lance uma magia com uma Varinha Arcana",
+
+  "advancements.rpg_series.spell_cast_fire_wand.title": "Prática Ígnea",
+  "advancements.rpg_series.spell_cast_fire_wand.description": "Lance uma magia com uma Varinha de Fogo",
+
+  "advancements.rpg_series.spell_cast_frost_wand.title": "Prática Gélida",
+  "advancements.rpg_series.spell_cast_frost_wand.description": "Lance uma magia com uma Varinha de Gelo",
+
+  "advancements.rpg_series.spell_cast_arcane_book.title": "Empoderamento Arcano",
+  "advancements.rpg_series.spell_cast_arcane_book.description": "Lance uma magia a partir do Tomo Arcano",
+
+  "advancements.rpg_series.spell_cast_fire_book.title": "Empoderamento Ígneo",
+  "advancements.rpg_series.spell_cast_fire_book.description": "Lance uma magia a partir do Tomo de Fogo",
+
+  "advancements.rpg_series.spell_cast_frost_book.title": "Empoderamento Gélido",
+  "advancements.rpg_series.spell_cast_frost_book.description": "Lance uma magia a partir do Tomo de Gelo",
+
+  "advancements.rpg_series.trade_with_wizard.title": "Venda Mágica",
+  "advancements.rpg_series.trade_with_wizard.description": "Troque com um Aldeão Mago Mercador",
+
+  "entity.minecraft.villager.wizard_merchant": "Mago Mercador",
+  "entity.minecraft.villager.wizards:wizard_merchant": "Mago Mercador"
+}

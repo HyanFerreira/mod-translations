@@ -1,0 +1,8 @@
+{
+  "item.netherite_compass.netherite_compass": "Bússola de Netherita",
+  "item.netherite_compass.netherite_compass.hint": "Use a bússola para procurar novamente!",
+  "item.netherite_compass.netherite_compass.locked_on": "Detritos Antigos por perto!",
+  "item.netherite_compass.netherite_compass.wrong_dim1": "Detritos Antigos rastreados",
+  "item.netherite_compass.netherite_compass.wrong_dim2": "Estão em outra dimensão!",
+  "item.netherite_compass.netherite_compass.not_found": "Localizando..."
+}

@@ -1,0 +1,9 @@
+{
+  "container.sawmill.sawmill": "Serraria",
+  "block.sawmill.sawmill": "Serraria",
+  "entity.minecraft.villager.sawmill.carpenter": "Carpinteiro",
+  "entity.minecraft.villager.carpenter": "Carpinteiro",
+  "subtitles.sawmill.entity.villager.work_carpenter": "Carpinteiro trabalhando",
+  "subtitles.sawmill.ui.sawmill.take_result": "Serraria utilizada",
+  "sawmill.category.wood_cutting": "Corte de Madeira"
+}
