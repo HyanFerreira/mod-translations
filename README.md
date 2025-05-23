@@ -15,7 +15,7 @@ Ele funciona **em conjunto com os mods instalados**, e pode ser usado tanto em s
 ## 🔧 Instalação
 
 1. Baixe o resource pack no botão **Code > Download ZIP** ou pela aba de **Releases** (se aplicável).
-2. Mova o arquivo `.zip` para a pasta: seumundo/resourcepacks
+2. Mova o arquivo `.zip` para a pasta: seuminecraft/resourcepacks
 3. No Minecraft, vá em **Opções > Pacotes de Recursos** e ative o pack.
 4. Certifique-se de que o idioma do jogo está definido como **Português (Brasil)**.
 
@@ -41,6 +41,6 @@ Este projeto está sob a licença [MIT](LICENSE), fique à vontade para modifica
 
 ## 📌 Autor
 
-Feito com carinho por HyanFerreira.  
+Feito por HyanFerreira.  
 Se quiser me apoiar, basta deixar uma estrela ⭐ no repositório!
 
