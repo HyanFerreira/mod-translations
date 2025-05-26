@@ -3,9 +3,9 @@
   "entity.undeadnights.demolition_zombie": "Zumbi Demolidor",
   "entity.undeadnights.elite_zombie": "Zumbi Elite",
 
-  "item.undeadnights.horde_zombie_spawn_egg": "Ovo de Spawn de Zumbi da Horda",
-  "item.undeadnights.elite_zombie_spawn_egg": "Ovo de Spawn de Zumbi Elite",
-  "item.undeadnights.demolition_zombie_spawn_egg": "Ovo de Spawn de Zumbi Demolidor",
+  "item.undeadnights.horde_zombie_spawn_egg": "Ovo Gerador de Zumbi da Horda",
+  "item.undeadnights.elite_zombie_spawn_egg": "Ovo Gerador de Zumbi Elite",
+  "item.undeadnights.demolition_zombie_spawn_egg": "Ovo Gerador de Zumbi Demolidor",
 
   "message.undeadnights.nights_remaining": "Faltam %s noites para a próxima Noite dos Mortos-Vivos!",
   "message.undeadnights.last_nights": "Esta é a última noite antes da próxima Noite dos Mortos-Vivos!",
@@ -19,9 +19,9 @@
 
   "sounds.undeadnights.horde_scream": "Grito da Horda",
 
-  "text.autoconfig.undeadnights.title": "Noites dos Mortos-Vivos",
-  "text.autoconfig.undeadnights.option.undeadNightsEnabled": "Ativar o mod Noites dos Mortos-Vivos?",
-  "text.autoconfig.undeadnights.option.undeadNightsEnabled.@Tooltip": "Se ativado, as Noites dos Mortos-Vivos (noites de horda) estarão habilitadas | padrão: ativado",
+  "text.autoconfig.undeadnights.title": "Noite dos Mortos-Vivos",
+  "text.autoconfig.undeadnights.option.undeadNightsEnabled": "Ativar o mod Noite dos Mortos-Vivos?",
+  "text.autoconfig.undeadnights.option.undeadNightsEnabled.@Tooltip": "Se ativado, as Noite dos Mortos-Vivos (noites de horda) estarão habilitadas | padrão: ativado",
   "text.autoconfig.undeadnights.option.daysBetweenHordeNights": "Dias entre as noites de horda",
   "text.autoconfig.undeadnights.option.daysBetweenHordeNights.@Tooltip": "Número de dias entre as noites de horda (1 = toda noite é noite de horda) | padrão: 5",
   "text.autoconfig.undeadnights.option.chanceForHordeNight": "Chance para uma noite de horda (em %%)",
@@ -57,5 +57,7 @@
   "text.autoconfig.undeadnights.option.spawnStrayHordeZombies": "Gerar zumbis da horda solitários (em noites normais)",
   "text.autoconfig.undeadnights.option.spawnStrayHordeZombies.@Tooltip": "Se ativado, zumbis da horda solitários podem aparecer em noites normais | padrão: ativado",
   "text.autoconfig.undeadnights.option.printDebugMessages": "Registrar mensagens de depuração",
-  "text.autoconfig.undeadnights.option.printDebugMessages.@Tooltip": "Se ativado, mensagens de depuração serão registradas | padrão: desativado"
+  "text.autoconfig.undeadnights.option.printDebugMessages.@Tooltip": "Se ativado, mensagens de depuração serão registradas | padrão: desativado",
+
+  "You may not rest now; this is a night of the Undead": "“Não podeis descansar agora; esta é uma Noite de Mortos-Vivos”"
 }

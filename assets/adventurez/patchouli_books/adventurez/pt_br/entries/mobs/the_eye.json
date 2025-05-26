@@ -1,0 +1,17 @@
+{
+  "name": "O Olho",
+  "icon": "adventurez:blackstone_golem_heart",
+  "category": "adventurez:mob_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Nunca visto antes, O Olho drenará toda a sua energia até que você se torne um cadáver. Ele pode ser invocado no santuário. Se o mod VoidZ estiver instalado, ele abrirá um portal para a dimensão Sombra do Vazio."
+    },
+    {
+      "type": "entity",
+      "name": "Exibição",
+      "entity": "adventurez:the_eye",
+      "offset": 0.6
+    }
+  ]
+}

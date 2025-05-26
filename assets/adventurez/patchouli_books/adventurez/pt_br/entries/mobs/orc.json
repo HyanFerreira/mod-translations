@@ -1,0 +1,18 @@
+{
+  "name": "Orc",
+  "icon": "adventurez:blackstone_golem_heart",
+  "category": "adventurez:mob_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Orcs vagarão pelo seu mundo. Se houver um Orc maior por perto, outros Orcs tentarão se reunir ao redor dele. Orcs menores tentarão roubar uma ferramenta de você e fugir, então fique de olho nessas criaturas traiçoeiras. Você os encontrará nas planícies."
+    },
+    {
+      "type": "entity",
+      "name": "Exibição",
+      "entity": "adventurez:orc",
+      "scale": 1.3,
+      "offset": -0.5
+    }
+  ]
+}

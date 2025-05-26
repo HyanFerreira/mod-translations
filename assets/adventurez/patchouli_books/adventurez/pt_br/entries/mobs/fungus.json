@@ -1,0 +1,25 @@
+{
+  "name": "Fungo",
+  "icon": "adventurez:blackstone_golem_heart",
+  "category": "adventurez:mob_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Os fungos vermelho e marrom podem ser encontrados nas raras ilhas de cogumelos e geralmente são pacíficos. De vez em quando eles defecam cogumelos."
+    },
+    {
+      "type": "entity",
+      "name": "Exposição",
+      "entity": "adventurez:red_fungus"
+    },
+    {
+      "type": "entity",
+      "name": "Exposição",
+      "entity": "adventurez:brown_fungus"
+    },
+    {
+      "type": "empty",
+      "draw_filler": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "options.clouds.fancy": "Camadas",
+
+  "text.autoconfig.cloud-layers.title": "Configuração das Camadas de Nuvens",
+  "text.autoconfig.cloud-layers.option.enableMod": "Ativar Mod",
+  "text.autoconfig.cloud-layers.option.heightOffset": "Deslocamento de Altura",
+  "text.autoconfig.cloud-layers.option.heightOffset.@Tooltip": "Ajusta a altura de todas as camadas",
+  "text.autoconfig.cloud-layers.option.useWorldOffset": "Usar Deslocamento do Mundo",
+  "text.autoconfig.cloud-layers.option.useWorldOffset.@Tooltip[0]": "Ajusta as camadas com base na altura das nuvens da dimensão,",
+  "text.autoconfig.cloud-layers.option.useWorldOffset.@Tooltip[1]": "e abaixa as nuvens em mundos superflat",
+  "text.autoconfig.cloud-layers.option.useWorldTime": "Usar Tempo do Mundo",
+  "text.autoconfig.cloud-layers.option.useWorldTime.@Tooltip": "Usa o tempo do mundo/servidor para calcular a posição das nuvens",
+  "text.autoconfig.cloud-layers.option.renderDistance": "Distância de Renderização",
+  "text.autoconfig.cloud-layers.option.renderDistance.@Tooltip": "Defina como 0 para sincronizar com as configurações de vídeo",
+  "text.autoconfig.cloud-layers.option.disableFog": "Desativar Névoa",
+
+  "text.autoconfig.cloud-layers.option.layers": "Camadas de Nuvens",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer": "Camada de Nuvem",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.name": "Nome",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.name.@Tooltip": "Esta opção não faz nada",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.seed": "Seed",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.height": "Altura",
+
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.appearance": "Aparência",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.appearance.@Tooltip": "O formato e aparência das nuvens",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.appearance.thickness": "Espessura (Blocos)",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.appearance.thickness.@Tooltip": "Para o Fancy vanilla: 4, ou para o Fast vanilla: 0",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.appearance.scale": "Escala",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.appearance.color": "Cor",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.appearance.opacity": "Opacidade (%)",
+
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.movement": "Movimento",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.movement.@Tooltip": "A posição e o movimento das nuvens",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.movement.speed": "Velocidade (%)",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.movement.direction": "Direção",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.movement.useRelativeHeight": "Usar Altura Relativa",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.movement.useRelativeHeight.@Tooltip[0]": "As nuvens ficarão a uma distância fixa em relação ao jogador, ",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.movement.useRelativeHeight.@Tooltip[1]": "o que tem efeito semelhante a um skybox",
+
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.conditions": "Condições",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.conditions.@Tooltip": "Quando as nuvens devem ser visíveis",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.conditions.dimension": "Dimensão",
+  "text.autoconfig.cloud-layers.option.ConfigurableLayer.conditions.rainingOnly": "Apenas quando estiver chovendo"
+}

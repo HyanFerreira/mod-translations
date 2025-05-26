@@ -1,0 +1,17 @@
+{
+  "name": "Coração do Golem de Pedra-negra",
+  "icon": "adventurez:blackstone_golem_heart",
+  "category": "adventurez:item_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "adventurez:blackstone_golem_heart",
+      "link_recipe": false,
+      "text": "O coração do golem de Pedra-negra é um item dropado pelo chefe Golem de Pedra-negra e pode ser usado de três formas diferentes. Ele é um material de criação para o braço de Pedra-negra, você pode se infundir com ele para receber um buff ou usá-lo para aprimorar um golem de ferro, tornando-o mais forte!"
+    },
+    {
+      "type": "empty",
+      "draw_filler": false
+    }
+  ]
+}

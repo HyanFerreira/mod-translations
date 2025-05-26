@@ -1,0 +1,50 @@
+{
+  "name": "Sombra do Vazio",
+  "icon": "adventurez:blackstone_golem_heart",
+  "category": "adventurez:mob_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "A Sombra do Vazio é o chefe final no Minecraft, visto em um vazio diferente daquele que você provavelmente conhece. Você será conhecido por todos, até mesmo os aldeões reconhecerão sua fama se conseguir derrotá-la. Um portal para essa dimensão será gerado quando O Olho for morto."
+    },
+    {
+      "type": "entity",
+      "name": "Exibição",
+      "entity": "adventurez:void_shadow",
+      "scale": 0.8,
+      "offset": 0.8
+    },
+    {
+      "type": "text",
+      "title": "Sombra do Vazio",
+      "text": "A Sombra do Vazio é uma criatura que persegue sua vida. Ela dispara projéteis do vazio que podem ser bloqueados ao socá-los."
+    },
+    {
+      "type": "entity",
+      "name": "Exibição",
+      "entity": "adventurez:void_shade"
+    },
+    {
+      "type": "text",
+      "title": "Fragmento do Vazio",
+      "text": "Fragmentos do Vazio surgirão durante a luta contra a Sombra do Vazio. Não chegue perto deles — este livro te avisou! Os fragmentos maiores são chamados de Orbes do Vazio e só podem ser destruídos por projéteis do vazio, mas causarão dano à Sombra."
+    },
+    {
+      "type": "entity",
+      "name": "Exibição",
+      "entity": "adventurez:void_fragment",
+      "scale": 0.6
+    },
+    {
+      "type": "link",
+      "title": "Addon VoidZ",
+      "text": "Você precisa baixar e instalar o mod VoidZ, pois a Sombra do Vazio aparecerá em uma nova dimensão usada apenas para a luta. O motivo de ser um addon é que o Fabric possui sua própria API de dimensões, que pode não ser atualizada rapidamente após grandes updates.",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/voidz",
+      "link_text": "Página do Mod VoidZ"
+    },
+    {
+      "type": "empty",
+      "draw_filler": false
+    }
+  ]
+}

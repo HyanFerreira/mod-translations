@@ -1,0 +1,17 @@
+{
+  "name": "Braço do Golem",
+  "icon": "adventurez:blackblackstone_golem_arm",
+  "category": "adventurez:item_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "adventurez:blackstone_golem_arm",
+      "link_recipe": true,
+      "text": "O Braço do Golem de Pedra-negra é uma arma forjada com o Coração do Golem de Pedra-negra e permite lançar pedras contra seus inimigos. Carregue-o segurando o botão direito até que brilhe em vermelho e jogue uma pedra soltando o botão."
+    },
+    {
+      "type": "crafting",
+      "recipe": "adventurez:blackstone_golem_arm"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Guardião Blaze",
+  "icon": "adventurez:blackstone_golem_heart",
+  "category": "adventurez:mob_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Guardião Blaze pode ser encontrado nas fortalezas do Nether e defenderá o local dos jogadores até a morte. Cuidado com seu ataque de explosão de chamas, ele pode matar você. Os escudos ao redor o protegem, mas podem ser destruídos. Spawners de Blaze não funcionarão se um Guardião estiver por perto."
+    },
+    {
+      "type": "entity",
+      "name": "Exposição",
+      "entity": "adventurez:blaze_guardian",
+      "offset": 0.2
+    }
+  ]
+}

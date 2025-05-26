@@ -1,0 +1,16 @@
+{
+  "name": "Pedra Fonte",
+  "icon": "adventurez:source_stone",
+  "category": "adventurez:item_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "adventurez:source_stone",
+      "text": "A Pedra Fonte é dropada pelo Sombra do Vazio. É uma pedra lendária feita em tempos antigos por um mago negro cujo nome está há muito esquecido. Clique com o botão direito dispara uma bala do vazio. Shift + clique com o botão direito tentará fazer você atravessar blocos."
+    },
+    {
+      "type": "empty",
+      "draw_filler": false
+    }
+  ]
+}

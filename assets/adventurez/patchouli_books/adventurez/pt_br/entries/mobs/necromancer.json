@@ -1,0 +1,28 @@
+{
+  "name": "Necromante",
+  "icon": "adventurez:blackstone_golem_heart",
+  "category": "adventurez:mob_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "O sombrio Necromante fez das fortalezas do Nether seu lar. Ele aprendeu a usar magia negra e invocará Marionetes do Wither para se proteger de inimigos."
+    },
+    {
+      "type": "entity",
+      "name": "Exibição",
+      "entity": "adventurez:necromancer",
+      "offset": 0.2
+    },
+    {
+      "type": "text",
+      "title": "Marionete do Wither",
+      "text": "A Marionete do Wither é controlada por seu líder e infecta seus inimigos com o efeito de murchamento. Mate o líder para destruir sua vontade."
+    },
+    {
+      "type": "entity",
+      "name": "Exibição",
+      "entity": "adventurez:wither_puppet",
+      "scale": 1.1
+    }
+  ]
+}

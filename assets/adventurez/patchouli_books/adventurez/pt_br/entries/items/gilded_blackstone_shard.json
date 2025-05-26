@@ -1,0 +1,17 @@
+{
+  "name": "Fragmento de Pedra-negra Dourada",
+  "icon": "adventurez:gilded_blackstone_shard",
+  "category": "adventurez:item_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "adventurez:gilded_blackstone_shard",
+      "link_recipe": false,
+      "text": "Fragmentos de Pedra-negra dourada podem ser encontrados em Bastões do Nether, dropados por Piglin Brute ou obtidos por troca com Piglins."
+    },
+    {
+      "type": "empty",
+      "draw_filler": false
+    }
+  ]
+}

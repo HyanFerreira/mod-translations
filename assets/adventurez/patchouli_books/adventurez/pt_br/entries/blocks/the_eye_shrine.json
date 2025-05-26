@@ -1,0 +1,32 @@
+{
+  "name": "Santuário do Olho",
+  "icon": "minecraft:dragon_egg",
+  "category": "adventurez:block_category",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Santuário do Olho",
+      "text": "Este santuário drena energia do bloco mais raro do Minecraft: o Ovo do Dragão. Construa-o dentro do Fim para invocar a criatura mortal chamada O Olho."
+    },
+    {
+      "type": "multiblock",
+      "text": "A camada inferior também pode ser construída com Obsidiana Chorona.",
+      "offset": [0, 4, 0],
+      "multiblock": {
+        "pattern": [
+          ["     ", " E E ", "  D  ", " E E ", "     "],
+          ["E   E", " CCC ", " CCC ", " CCC ", "E   E"],
+          ["OOOOO", "OOOOO", "OO0OO", "OOOOO", "OOOOO"]
+        ],
+        "mapping": {
+          "O": "minecraft:obsidian",
+          "C": "minecraft:crying_obsidian",
+          "E": "minecraft:end_rod",
+          "D": "minecraft:dragon_egg",
+          "0": "minecraft:obsidian"
+        },
+        "symmetrical": true
+      }
+    }
+  ]
+}

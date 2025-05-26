@@ -1,0 +1,16 @@
+{
+  "name": "Ceifador de Almas",
+  "icon": "adventurez:blackstone_golem_heart",
+  "category": "adventurez:mob_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "O Ceifador de Almas é mais mortal do que qualquer outro esqueleto wither que você já viu. Atirando flechas murchas ou cortando você ao meio com uma espada de netherita, ele está preparado para tudo. Normalmente, ele monta um Pesadelo para se locomover mais rápido e pode ser encontrado no vale da areia das almas."
+    },
+    {
+      "type": "entity",
+      "name": "Exibição",
+      "entity": "adventurez:soul_reaper"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Golem de Pedra-negra",
+    "icon": "adventurez:blackstone_golem_heart",
+    "category": "adventurez:mob_category",
+    "pages": [
+        {
+            "type": "text",
+            "text": "O Golem de Pedra-negra é a criatura mais mortal no mundo do Minecraft. Invocado no Altar do Golem, ele destruirá seu mundo até te matar. Se você conseguir matá-lo, de qualquer forma que tenha sido, ele se dividirá ao meio."
+        },
+        {
+            "type": "entity",
+            "name": "Exposição",
+            "entity": "adventurez:blackstone_golem",
+            "scale": 0.8
+        },
+        {
+            "type": "text",
+            "title": "Mini Golem de Pedra-negra",
+            "text": "Os Mini Golems de Pedra-negra são restos do Golem de Pedra-negra e podem ser encontrados nos deltas de basalto."
+        },
+        {
+            "type": "entity",
+            "name": "Exposição",
+            "entity": "adventurez:mini_blackstone_golem",
+            "scale": 0.5
+        }
+    ]
+}

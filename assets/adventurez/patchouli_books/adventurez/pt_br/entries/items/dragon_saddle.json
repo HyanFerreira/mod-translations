@@ -1,0 +1,17 @@
+{
+  "name": "Sela de Dragão",
+  "icon": "adventurez:dragon_saddle",
+  "category": "adventurez:item_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "adventurez:dragon_saddle",
+      "link_recipe": true,
+      "text": "A sela de dragão é feita com pele de Orc. Depois que o dragão crescer o suficiente, você pode colocá-la em suas costas."
+    },
+    {
+      "type": "crafting",
+      "recipe": "adventurez:dragon_saddle"
+    }
+  ]
+}

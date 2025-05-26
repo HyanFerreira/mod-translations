@@ -1,0 +1,40 @@
+{
+  "name": "Baleia Ender",
+  "icon": "adventurez:blackstone_golem_heart",
+  "category": "adventurez:mob_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "As Baleias Ender são criaturas amigáveis que voam pelo vazio. Elas podem ser montadas, até mesmo com um amigo, e podem ser chamadas com a Flauta Ender. Consiga uma fruta do coro e crie uma Fruta do Coro em um Cajado para guiá-las na direção que você quiser."
+    },
+    {
+      "type": "entity",
+      "name": "Exposição",
+      "entity": "adventurez:ender_whale",
+      "rotate": false,
+      "default_rotation": 25.0,
+      "scale": 0.6,
+      "offset": -0.3
+    },
+    {
+      "type": "spotlight",
+      "item": "adventurez:ender_flute",
+      "link_recipe": true,
+      "text": "A Flauta Ender é um instrumento antigo usado para chamar as Baleias Ender para um passeio."
+    },
+    {
+      "type": "crafting",
+      "recipe": "adventurez:ender_flute"
+    },
+    {
+      "type": "spotlight",
+      "item": "adventurez:chorus_fruit_on_a_stick",
+      "link_recipe": true,
+      "text": "A Fruta do Coro em um Cajado é um simples bastão para guiar as Baleias Ender, pois elas adoram comer essas frutas."
+    },
+    {
+      "type": "crafting",
+      "recipe": "adventurez:chorus_fruit_on_a_stick"
+    }
+  ]
+}

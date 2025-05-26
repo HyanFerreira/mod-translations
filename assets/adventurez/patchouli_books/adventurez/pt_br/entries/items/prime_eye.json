@@ -1,0 +1,16 @@
+{
+  "name": "Olho Prime",
+  "icon": "adventurez:prime_eye",
+  "category": "adventurez:item_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "adventurez:prime_eye",
+      "text": "O Olho Prime é o remanescente do Olho e pode ser dropado por ele. Recarregue-o com Pérolas do Ender na bigorna, assim ele causa menos dano a você quando lançado."
+    },
+    {
+      "type": "empty",
+      "draw_filler": false
+    }
+  ]
+}

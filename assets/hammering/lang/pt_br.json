@@ -1,0 +1,15 @@
+{
+  "advancement.hammering.hammer_collection.info": "Obtenha todos os martelos",
+  "advancement.hammering.hammer_collection.title": "Coleção de Martelos",
+  "advancement.hammering.hammer_time.info": "Obtenha um Martelo de Ferro",
+  "advancement.hammering.hammer_time.title": "Hora do Martelo!",
+  "enchantment.hammering.hammering": "Martelamento",
+  "enchantment.hammering.hammering.desc": "Permite minerar uma grande área de uma vez.",
+  "item.hammering.diamond_hammer": "Martelo de Diamante",
+  "item.hammering.golden_hammer": "Martelo de Ouro",
+  "item.hammering.iron_hammer": "Martelo de Ferro",
+  "item.hammering.netherite_hammer": "Martelo de Netherita",
+  "itemGroup.hammering.main": "Martelos",
+  "tag.block.hammering.mineable.hammer": "Minerável com Martelo",
+  "tag.item.hammering.hammer": "Martelo"
+}
