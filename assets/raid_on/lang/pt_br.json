@@ -1,0 +1,32 @@
+{
+  "event.raid_on.show_waves_remaining": "Onda: %s",
+  
+  "itemgroup.raidon": "Invasão!",
+
+  "item.raid_on.prism_of_sight": "Prisma da Visão",
+  "item.raid_on.bottle_o_omen": "Frasco do Presságio",
+  "item.raid_on.raid_rune": "Runa de Invasão",
+
+  "message.raid_on.bad_omen_worse": "Seu mau presságio piorou",
+  "message.raid_on.locating_raiders": "Destacando invasores próximos...",
+  "message.raid_on.wavescount": "Total de Ondas da Invasão: ",
+  "message.raid_on.currentraidercount": "Invasores Atuais: ",
+  "message.raid_on.notinraidarea": "Você não está em uma área de invasão",
+
+  "effect.raid_on.raid_wave_loot_effect": "Nível de Recompensa por Onda de Invasão",
+
+  "commands.raid_on.ended_raid": "Invasão Encerrada",
+  "commands.raid_on.could_not_end_raid": "Nenhuma Invasão Encontrada",
+  "commands.raid_on.could_not_find_raid": "Nenhuma Invasão Encontrada",
+  "commands.raid_on.raid_wave_set": "Onda de Invasão Definida para ",
+  "commands.raid_on.raid_wave_set_fail": "Não foi possível definir a Onda de Invasão",
+  "commands.raid_on.raid_killed_raiders": "Invasores Eliminados",
+  "commands.raid_on.raid_despawned_raiders": "Invasores Sumiram",
+  "commands.raid_on.raid_killed_raiders_fail": "nenhum invasor para eliminar",
+  "commands.raid_on.raid_start": "Invasão Iniciada com Mau Presságio ",
+  "commands.raid_on.raid_termination_fail": "Falha ao Encerrar a Invasão",
+  "commands.raid_on.raid_termination_success": "Invasão Encerrada com Sucesso",
+  "commands.raid_on.raid_current_wave": "Onda Atual: ",
+  "commands.raid_on.raid_current_time": "Tempo Restante em Tiques: ",
+  "commands.raid_on.gen_fireworks": "Fogos de Artifício Gerados"
+}

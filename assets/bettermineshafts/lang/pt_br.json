@@ -1,0 +1,105 @@
+{
+  "Use /locate structure #bettermineshafts:better_mineshafts instead!": "Use /locate structure #bettermineshafts:better_mineshafts em vez disso!",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.title": "YUNG's Melhores Minas",
+  "text.autoconfig.bettermineshafts-fabric-1_21.category.default": "Configurações Principais",
+  "text.autoconfig.bettermineshafts-fabric-1_21.category.spawnrates": "Taxas de Geração e Mais",
+  "text.autoconfig.bettermineshafts-fabric-1_21.category.ores": "Depósitos de Minério",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.minY": "Coordenada Y Mínima",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.minY.@Tooltip": "A menor altura que o chão de uma mina pode ter.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.maxY": "Coordenada Y Máxima",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.maxY.@Tooltip": "A maior altura que o chão de uma mina pode ter.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.disableVanillaMineshafts": "Desativar Minas Vanilla",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.disableVanillaMineshafts.@Tooltip": "Define se as minas do Minecraft padrão devem ser desativadas ou não.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates": "Taxas de Geração e Mais",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.@Tooltip": "Personalize as taxas de geração de várias partes e decorações das minas.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores": "Depósitos de Minério",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.@Tooltip[0]": "Configure as chances de geração de depósitos de minério.",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.@Tooltip[1]": "CERTIFIQUE-SE DE QUE TODOS OS VALORES SOMEM 100,",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.@Tooltip[2]": "caso contrário, as coisas não funcionarão como esperado!!",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.lanternSpawnRate": "Taxa de Geração de Lanternas",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.lanternSpawnRate.@Tooltip": "Taxa de geração de lanternas no eixo principal da mina.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.torchSpawnRate": "Taxa de Geração de Tochas",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.torchSpawnRate.@Tooltip": "Taxa de geração de tochas nos túneis menores.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.workstationSpawnRate": "Taxa de Geração de Estações de Trabalho",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.workstationSpawnRate.@Tooltip": "Taxa de geração de salas laterais com estações de trabalho ao longo do eixo principal.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.workstationDungeonSpawnRate": "Taxa de Geração de Porões com Estações de Trabalho",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.workstationDungeonSpawnRate.@Tooltip": "Taxa de geração de porões com estações de trabalho abaixo das estações ao longo do eixo principal.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.smallShaftSpawnRate": "Taxa de Geração de Túneis Pequenos",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.smallShaftSpawnRate.@Tooltip": "Taxa de geração de túneis menores que aparecem ao longo do eixo principal.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.cobwebSpawnRate": "Taxa de Geração de Teias de Aranha",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.cobwebSpawnRate.@Tooltip": "Taxa de geração de teias de aranha.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.smallShaftChestMinecartSpawnRate": "Taxa de Geração de Vagonetes com Baú nos Túneis Pequenos",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.smallShaftChestMinecartSpawnRate.@Tooltip": "Taxa de geração de vagonetes com baús nos túneis pequenos.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.mainShaftChestMinecartSpawnRate": "Taxa de Geração de Vagonetes com Baú no Eixo Principal",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.mainShaftChestMinecartSpawnRate.@Tooltip": "Taxa de geração de vagonetes com baús no eixo principal da mina.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.smallShaftTntMinecartSpawnRate": "Taxa de Geração de Vagonetes com TNT nos Túneis Pequenos",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.smallShaftTntMinecartSpawnRate.@Tooltip": "Taxa de geração de vagonetes com TNT nos túneis pequenos.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.mainShaftTntMinecartSpawnRate": "Taxa de Geração de Vagonetes com TNT no Eixo Principal",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.mainShaftTntMinecartSpawnRate.@Tooltip": "Taxa de geração de vagonetes com TNT no eixo principal da mina.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.zombieVillagerRoomSpawnChance": "Taxa de Geração de Postos Abandonados de Mineiros",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.zombieVillagerRoomSpawnChance.@Tooltip[0]": "Chance percentual de um Posto Abandonado de Mineiros aparecer",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.zombieVillagerRoomSpawnChance.@Tooltip[1]": "no final de um túnel pequeno da mina.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.smallShaftPieceChainLength": "Comprimento da Cadeia de Segmentos de Túneis Pequenos",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.smallShaftPieceChainLength.@Tooltip[0]": "O número de \"segmentos\" (ex.: reto, curva, etc.) em um único túnel pequeno.",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.spawnRates.smallShaftPieceChainLength.@Tooltip[1]": "Isso determina o tamanho total dos túneis pequenos.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.enabled": "Ativar Depósitos de Minério",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.cobble": "Chance de Geração de Pedra (depósito vazio)",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.cobble.@Tooltip": "Chance percentual de um depósito de minério conter apenas pedregulho.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.coal": "Chance de Geração de Carvão",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.coal.@Tooltip": "Chance percentual de um depósito de minério conter carvão.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.iron": "Chance de Geração de Ferro",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.iron.@Tooltip": "Chance percentual de um depósito de minério conter ferro.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.redstone": "Chance de Geração de Redstone",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.redstone.@Tooltip": "Chance percentual de um depósito de minério conter redstone.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.gold": "Chance de Geração de Ouro",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.gold.@Tooltip": "Chance percentual de um depósito de minério conter ouro.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.lapis": "Chance de Geração de Lápis-lazúli",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.lapis.@Tooltip": "Chance percentual de um depósito de minério conter lápis-lazúli.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.emerald": "Chance de Geração de Esmeralda",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.emerald.@Tooltip": "Chance percentual de um depósito de minério conter esmeralda.",
+
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.diamond": "Chance de Geração de Diamante",
+  "text.autoconfig.bettermineshafts-fabric-1_21.option.ores.diamond.@Tooltip": "Chance percentual de um depósito de minério conter diamante.",
+
+  "structure.bettermineshafts.mineshaft_acacia": "Mina de Acácia",
+  "structure.bettermineshafts.mineshaft_desert": "Mina do Deserto",
+  "structure.bettermineshafts.mineshaft_dripstone": "Mina de Estalactites",
+  "structure.bettermineshafts.mineshaft_ice": "Mina de Gelo",
+  "structure.bettermineshafts.mineshaft_jungle": "Mina da Selva",
+  "structure.bettermineshafts.mineshaft_lush": "Mina Luxuriante",
+  "structure.bettermineshafts.mineshaft_mesa": "Mina de Mesa",
+  "structure.bettermineshafts.mineshaft_mushroom": "Mina dos Cogumelos",
+  "structure.bettermineshafts.mineshaft_oak": "Mina de Carvalho",
+  "structure.bettermineshafts.mineshaft_overgrown": "Mina Coberta de Vegetação",
+  "structure.bettermineshafts.mineshaft_red_desert": "Mina do Deserto Vermelho",
+  "structure.bettermineshafts.mineshaft_spruce": "Mina de Abeto",
+  "structure.bettermineshafts.mineshaft_spruce_snowy": "Mina de Abeto Nevado"
+}

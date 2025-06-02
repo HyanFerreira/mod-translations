@@ -1,0 +1,60 @@
+{
+  "key.category.dopedhorses.horses": "Cavalos Dopados",
+  "key.dopedhorses.hud": "Alternar HUD de velocidade",
+  
+  "item.dopedhorses.netherite_horse_shoes": "Ferraduras de Netherita",
+  "item.dopedhorses.diamond_horse_shoes": "Ferraduras de Diamante",
+  "item.dopedhorses.gold_horse_shoes": "Ferraduras de Ouro",
+  "item.dopedhorses.iron_horse_shoes": "Ferraduras de Ferro",
+  "item.dopedhorses.diamond_nail": "Prego de Diamante",
+  "item.dopedhorses.gold_nail": "Prego de Ouro",
+  "item.dopedhorses.iron_nail": "Prego de Ferro",
+
+  "itemGroup.dopedhorses.tab": "Cavalos Dopados",
+
+  "dopedhorses.midnightconfig.userUnitComment": "0=km/h, 1=bloco/s, 2=mph",
+  "dopedhorses.midnightconfig.userUnit": "Escolha sua unidade de velocidade",
+  "dopedhorses.soulsand_error": "[CAVALOS DOPADOS] Erro: Você não pode remover as ferraduras enquanto estiver sobre areia das almas. Esse bug será corrigido em uma futura atualização!",
+
+  "dopedhorses.midnightconfig.title": "Configuração do Doped Horses",
+  "dopedhorses.midnightconfig.shoeModifierComment": "A velocidade padrão de um cavalo é ~0.2. Se você definir 0.2, a velocidade será 0.4, ou seja, o dobro.",
+  "dopedhorses.midnightconfig.ironShoeSpeedModifier": "Modificador de Velocidade da Ferradura de Ferro",
+  "dopedhorses.midnightconfig.goldShoeSpeedModifier": "Modificador de Velocidade da Ferradura de Ouro",
+  "dopedhorses.midnightconfig.diamondShoeSpeedModifier": "Modificador de Velocidade da Ferradura de Diamante",
+  "dopedhorses.midnightconfig.netheriteShoeSpeedModifier": "Modificador de Velocidade da Ferradura de Netherita",
+
+  "dopedhorses.midnightconfig.armorModifierComment": "Arredonda o valor para .5",
+  "dopedhorses.midnightconfig.ironShoeArmorModifier": "Modificador de Armadura da Ferradura de Ferro",
+  "dopedhorses.midnightconfig.goldShoeArmorModifier": "Modificador de Armadura da Ferradura de Ouro",
+  "dopedhorses.midnightconfig.diamondShoeArmorModifier": "Modificador de Armadura da Ferradura de Diamante",
+  "dopedhorses.midnightconfig.netheriteShoeArmorModifier": "Modificador de Armadura da Ferradura de Netherita",
+
+  "dopedhorses.midnightconfig.jumpModifierComment": "A força de pulo do cavalo varia de 0.4 a 1.0, com média de 0.7. Uma força de 0.5 salta 1 9⁄16 blocos; 1.0 salta 5 1⁄4 blocos.",
+  "dopedhorses.midnightconfig.ironShoeJumpModifier": "Modificador de Pulo da Ferradura de Ferro",
+  "dopedhorses.midnightconfig.goldShoeJumpModifier": "Modificador de Pulo da Ferradura de Ouro",
+  "dopedhorses.midnightconfig.diamondShoeJumpModifier": "Modificador de Pulo da Ferradura de Diamante",
+  "dopedhorses.midnightconfig.netheriteShoeJumpModifier": "Modificador de Pulo da Ferradura de Netherita",
+
+  "dopedhorses.midnightconfig.shoeLootComment": "[Necessário reiniciar] Valor entre 0 e 1 (0.1 = 10%, 0.2 = 20% etc...). Esses itens aparecem em baús no Nether / ruínas de portais",
+  "dopedhorses.midnightconfig.ironShoeLootChance": "Chance de Drop da Ferradura de Ferro",
+  "dopedhorses.midnightconfig.goldShoeLootChance": "Chance de Drop da Ferradura de Ouro",
+  "dopedhorses.midnightconfig.diamondShoeLootChance": "Chance de Drop da Ferradura de Diamante",
+  "dopedhorses.midnightconfig.netheriteShoeLootChance": "Chance de Drop da Ferradura de Netherita",
+
+  "dopedhorses.midnightconfig.fasterBlocks": "Blocos Aceleradores",
+  "dopedhorses.midnightconfig.fasterBlocks.tooltip": "Formato: <regex do bloco>=<multiplicador>. Veja os exemplos padrão :) Não é obrigatório usar regex. Você pode simplesmente escrever o nome do bloco, como: sand=0.2",
+
+  "dopedhorses.midnightconfig.category.Client": "Configuração do Cliente",
+  "dopedhorses.midnightconfig.category.Server": "Configuração do Servidor",
+
+  "dopedhorses.midnightconfig.explainComment1": "A configuração do servidor só funciona em mundos hospedados localmente. Para funcionar em seu servidor, entre em um mundo solo, configure as opções desejadas e depois copie o arquivo doped_horses.json da pasta .minecraft/config para a pasta de configurações do servidor.",
+  "dopedhorses.midnightconfig.explainComment2": "",
+  "dopedhorses.midnightconfig.explainComment3": "",
+  "dopedhorses.midnightconfig.explainComment4": "",
+
+  "dopedhorses.midnightconfig.stepHeightModifierComment": "Aumenta a altura de passo. O padrão no Minecraft é 1. Se você definir como 1, o cavalo pisará em blocos de até 2 de altura",
+  "dopedhorses.midnightconfig.ironShoeStepHeightModifier": "Modificador de Altura de Passo da Ferradura de Ferro",
+  "dopedhorses.midnightconfig.goldShoeStepHeightModifier": "Modificador de Altura de Passo da Ferradura de Ouro",
+  "dopedhorses.midnightconfig.diamondShoeStepHeightModifier": "Modificador de Altura de Passo da Ferradura de Diamante",
+  "dopedhorses.midnightconfig.netheriteShoeStepHeightModifier": "Modificador de Altura de Passo da Ferradura de Netherita"
+}

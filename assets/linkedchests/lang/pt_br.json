@@ -1,0 +1,6 @@
+{
+  "block.linkedchests.linked_chest": "Baú de Ender Vinculado",
+  "block.linkedchests.linked_chest.description": "Concede acesso a itens armazenados em reinos interdimensionais.",
+  "item.linkedchests.linked_pouch": "Bolsa Vinculada",
+  "itemGroup.linkedchests.main": "Baú de Ender Vinculado"
+}

@@ -1,0 +1,7 @@
+{
+  "block.permanentsponges.aqueous_sponge": "Esponja Aquosa",
+  "block.permanentsponges.magmatic_sponge": "Esponja Magmática",
+  "item.permanentsponges.aqueous_sponge_on_a_stick": "Esponja Aquosa no Bastão",
+  "item.permanentsponges.magmatic_sponge_on_a_stick": "Esponja Magmática no Bastão",
+  "itemGroup.permanentsponges.main": "Esponjas Permanentes"
+}

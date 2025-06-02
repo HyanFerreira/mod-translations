@@ -6,5 +6,15 @@
   "biome.incendium.toxic_heap": "Monte tóxico",
   "biome.incendium.volcanic_deltas": "Deltas vulcânicos",
   "biome.incendium.weeping_valley": "Vale das lamentações",
-  "biome.incendium.withered_forest": "Floresta murcha"
+  "biome.incendium.withered_forest": "Floresta murcha",
+
+  "structure.incendium.abandoned_tower": "Torre Abandonada",
+  "structure.incendium.forbidden_castle": "Castelo Proibido",
+  "structure.incendium.infernal_altar": "Altar Infernal",
+  "structure.incendium.nether_reactor": "Reator do Nether",
+  "structure.incendium.piglin_village": "Vila dos Piglins",
+  "structure.incendium.pipeline": "Condutas",
+  "structure.incendium.quartz_kitchen": "Cozinha de Quartzo",
+  "structure.incendium.ruined_lab": "Laboratório em Ruínas",
+  "structure.incendium.sanctum": "Santuário"
 }
